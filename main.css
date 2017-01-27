@@ -1,0 +1,63 @@
+.features .glyphicon{
+  font-size: 32px;
+}
+body {
+    font: 20px;
+    line-height: 1.5;
+    color: #f5f6f7;
+    padding-top: 70px;
+}
+
+p{
+  font-size: 16px;
+}
+
+.margin {margin-bottom: 45px;}
+
+.margin-top{margin-top: 45px;}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.bg-1 {
+    background-color: #45ada8;
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #547980;
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #474e5d;
+}
+
+.bg-4{
+    background-color: #2f2f2f;;
+    color: #ffffff;
+}
+
+.imgStyle{
+  height: 100px;
+  width: 100px;
+}
+
+.img-center {margin:0 auto;}
+
+a
+{
+  color: #FFFFFF;
+}
