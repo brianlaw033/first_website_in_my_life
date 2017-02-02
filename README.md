@@ -24,9 +24,9 @@ This part will walk you through things that is used for the entire website.
 +to notify user which part are they reading base on scroll position on this one-page website.
 
 ```<div id='intro'class="container-fluid bg-n text-center">```
-+```container-fluid ```: provides a full width container, spanning the entire width, makes the site looks better.
-+```bg-n``` : putting a class for css to further styling.
-+```text-center``` : center texts
++ ```container-fluid ```: provides a full width container, spanning the entire width, makes the site looks better.
++ ```bg-n``` : putting a class for css to further styling.
++ ```text-center``` : center texts
 
 ### Navigation Bar
 
@@ -41,7 +41,7 @@ A navigation bar is added by using bootstrap functions.
 ```<button type='button' class='navbar-toggle' data-target='.navbar-collapse'>```
 + ```class='navbar-toggle'```: 
   a bootstrap function that turn navbar into a button when the size of browser is too narrow 
-+``` data-target='.navbar-collapse'```
++ ``` data-target='.navbar-collapse'```
   target the button to the list with the class='navbar-collapse'
 
 ### Brief Introduction
@@ -49,9 +49,9 @@ A navigation bar is added by using bootstrap functions.
 This part includes a picture of my cat and a sentences describe what am I.
 
 ```<img src="img link" class="img-circle img-responsive img-center" width="350" height="350">```
-+```img-circle``` : shape the img into circle
-+```img-responsive``` : resize the img according to the size of the window.
-+```img-center``` : center the img
++ ```img-circle``` : shape the img into circle
++ ```img-responsive``` : resize the img according to the size of the window.
++ ```img-center``` : center the img
 
 ### Detailed about me
 
@@ -65,11 +65,11 @@ This part is a photo album using bootstraps carousel function.
 
 Carousels require the use of an id (in this case ```id="myAlbum"```) for carousel controls to function properly.
 
-```class="carousel" ```specifies that this ```<div>``` contains a carousel.
++ ```class="carousel" ```specifies that this ```<div>``` contains a carousel.
 
-``` .slide ``` adds a CSS transition and animation effect, which makes the items slide when showing a new item
++ ``` .slide ``` adds a CSS transition and animation effect, which makes the i+tems slide when showing a new item
 
-```data-ride="carousel"``` attribute tells Bootstrap to begin animating the carousel immediately when the page loads.
++ ```data-ride="carousel"``` attribute tells Bootstrap to begin animating the carousel immediately when the page loads.
 
 
 ####The "Indicators" part:
@@ -104,4 +104,4 @@ A class of ```list-unstyled``` is added to the ```<ul>``` to remove the bullets.
 
 ### Support or Contact
 
-Having trouble with my page? Please kindly notify my by email(brian9328hk@gmail.com
+Having trouble with my page? Please kindly notify my by email(brian9328hk@gmail.com)
